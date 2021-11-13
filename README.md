@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @devSaakar
+- 👋 Hi, I’m Sakar Chauhan
 - 👀 I’m interested in Frontend Development
 - 🌱 I’m currently learning Frotnend Frameworks
 - 💞️ I’m looking to collaborate on interesting Projects
